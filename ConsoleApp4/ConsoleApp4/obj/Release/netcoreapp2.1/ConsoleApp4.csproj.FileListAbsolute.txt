@@ -1,0 +1,12 @@
+E:\githubaction\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp2.1\ConsoleApp4.deps.json
+E:\githubaction\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp2.1\ConsoleApp4.runtimeconfig.json
+E:\githubaction\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp2.1\ConsoleApp4.runtimeconfig.dev.json
+E:\githubaction\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp2.1\ConsoleApp4.dll
+E:\githubaction\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp2.1\ConsoleApp4.pdb
+E:\githubaction\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp2.1\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+E:\githubaction\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp2.1\ConsoleApp4.AssemblyInfoInputs.cache
+E:\githubaction\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp2.1\ConsoleApp4.AssemblyInfo.cs
+E:\githubaction\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp2.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\githubaction\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp2.1\ConsoleApp4.dll
+E:\githubaction\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp2.1\ConsoleApp4.pdb
+E:\githubaction\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp2.1\ConsoleApp4.genruntimeconfig.cache
